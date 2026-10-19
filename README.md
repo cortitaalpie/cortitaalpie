@@ -1,6 +1,6 @@
 ## Hey, I'm Jero
 
-I like buiding cool stuff and trying to figure out IA.
+I like buiding cool stuff and trying to figure out IA. Currently studying programming at UTN in Ciudad Autonoma de Buenos Airea
 
 ---
 
