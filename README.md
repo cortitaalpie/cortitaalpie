@@ -1,8 +1,6 @@
 ## Hey, I'm Jero
 
-IT student at UTN Buenos Aires.
-I build things that use AI APIs to solve real problems —
-and I'm working toward understanding models from the inside out, not just calling them.
+I like buiding cool stuff and trying to figure out IA.
 
 ---
 
